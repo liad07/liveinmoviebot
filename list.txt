@@ -1,0 +1,22 @@
+#
+איסט סייד | eastside
+https://t.me/+BdNuzhVBayplODM0
+type:url
+#
+#
+example of file
+https://t.me/liveinmoviebot/195
+type:file
+#
+#
+רובטריקים1|Transformers
+https://t.me/liveinmoviebot/199
+type:file
+#
+#
+איסט סייד | eastside
+https://t.me/+BdNuzhVBayplODM0
+type:url
+##איסט סייד | eastside
+https://t.me/+BdNuzhVBayplODM0
+type:url#
