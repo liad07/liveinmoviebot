@@ -11,8 +11,9 @@ python-telegram-bot 13.7 library
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
-cd <repository>
+
+git clone https://github.com/liad07/liveinmoviebot.git
+cd liveinmoviebot
 
 ```
 Install the python-telegram-bot library:
