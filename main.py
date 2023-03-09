@@ -4,7 +4,7 @@ import telegram
 
 # בס"ד
 # Replace with your API key
-TOKEN = "6260877462:AAEiPluul_8VIcxiBFeKV452s9AQIY6sxzc"
+TOKEN = ""
 bot = telegram.Bot(token=TOKEN)
 # Replace with the ID of the channel you want to search in
 CHANNEL_ID = "-1001500640863"
